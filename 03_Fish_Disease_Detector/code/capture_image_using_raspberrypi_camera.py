@@ -1,4 +1,4 @@
-#import library
+import library
 from picamera import PiCamera
 from time import sleep
 
