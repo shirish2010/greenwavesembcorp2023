@@ -19,6 +19,9 @@ We have used Arduino IDE in running and writing our code for pH meter,  Water Pu
 - The Autofeeder is a part of our model that automates the process of feeding the fish in the fish farm. We designed it such that it feeds the fish at the desired time for a particular amount of time. 
 - We have used 2 water pumps in the fish tank, one to pump the water and the other one to remove the dirty water.We have coded the water in such a way that it removes and pumps the water at desired intervals.
 
+### Connection Diagram
+
+![GreenwaveProject2023](https://github.com/shirish2010/greenwavesembcorp2023/blob/main/images/ConnectionDiagramAutofeeder.jpeg)
 
 ### The Procedure for working of the AutoFeeder and Water Pump
 
