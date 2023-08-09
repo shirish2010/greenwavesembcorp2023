@@ -6,7 +6,8 @@ The Automated Fish Farm Manager is a device that automates fish farm management.
 
 Video ADD LATER 
 
-This is our Automated Fish Farm Manager
+This is our Automated Fish Farm Manager Components Diagram
+![Automated Fish Farm Manager](https://github.com/shirish2010/greenwavesembcorp2023/blob/main/images/GreenwaveProject2023.jpeg)
 
 ## Installation Of Arduino IDE
 
@@ -92,7 +93,7 @@ By using a pH meter in our automated fish farm, fish farmers can effectively mon
 -Replace the XXX with your Wi-Fi network name and the password
 
 ```c
-   #include <WiFi.h>//Includes the necessary library for establishing a WiFi connection.
+#include <WiFi.h>//Includes the necessary library for establishing a WiFi connection.
 const int potPin = A0;
 float ph;//variable that to store the calculated pH value
 float Value = 0;
