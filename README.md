@@ -21,7 +21,7 @@ We have used Arduino IDE in running and writing our code for pH meter,  Water Pu
 
 ### Connection Diagram
 
-![GreenwaveProject2023](https://github.com/shirish2010/greenwavesembcorp2023/blob/main/images/ConnectionDiagramAutofeeder.jpeg)
+![GreenwaveProject2023](https://github.com/shirish2010/greenwavesembcorp2023/blob/main/images/ConnectionDiagramAutoFeeder.jpg)
 
 ### The Procedure for working of the AutoFeeder and Water Pump
 
