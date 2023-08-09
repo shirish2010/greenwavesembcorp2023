@@ -167,14 +167,15 @@ if (client.connect(server, 80)) //Establishes a connection to the ThingSpeak ser
 
 The Fish Disease Detector is a part of our Automated Farm Management which uses Machine learning to identify whether the fish is infected or not.
 
-### The Procedure of working of the  Fish Disease Detector 
+### The Procedure of working with the  Fish Disease Detector 
 
 - Connect the Raspberry Pi to a power socket using a power cord-
 - Go to the terminal in Raspberry Pi and type
-- Run this code in Python. This code saves the picture of the fish in my drive
+- Run this code in Python. This code saves the picture of the fish in my drive.
+  
   
 - Run this code in Google Colab for machine learning to detect infected fishes
-- 
+
   [Click me][Google colab]
   
    [Google colab]: <https://colab.research.google.com/drive/1g0um-qAnciawWCxyagDnQyym5Tt16iOp>
