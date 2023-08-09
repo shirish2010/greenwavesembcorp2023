@@ -4,9 +4,7 @@
 
 The Automated Fish Farm Manager is a device that automates fish farm management. It has numerous purposes and greatly simplifies the work of fish farmers. It is a device that assists the fish farmers in monitoring the health of the fish, checking the pH of the water, pumping new water into the tank and removing dirty water, feeding the fish, and alerting the fish farmer if the fish becomes ill. It reduces the number of fish deaths caused by illnesses or in other ways. It can be changed to our preferences and is very flexible and can easily be customized.
 
-Video ADD LATER 
-
-This is our Automated Fish Farm Manager Components Diagram
+### Automated Fish Farm Manager Components Diagram
 ![Automated Fish Farm Manager](https://github.com/shirish2010/greenwavesembcorp2023/blob/main/images/GreenwaveProject2023.jpeg)
 
 ## Installation Of Arduino IDE
