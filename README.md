@@ -175,8 +175,24 @@ The Fish Disease Detector is a part of our Automated Farm Management which uses 
 - Connect the Raspberry Pi to a power socket using a power cord-
 - Go to the terminal in Raspberry Pi and type
 - Run this code in Python. This code saves the picture of the fish in my drive.
-  
-  
+
+  ```c
+  import library
+  from picamera import PiCamera
+  from time import sleep
+
+  camera = PiCamera()
+
+  for i in range (0,15):# Repeat the program under it for X-1
+      camera.start_preview()#Starts taking pictures for Raspberry Pi Camera
+      print("Creating image")
+      camera.capture('/home/pi/drive/GrenwaveSentcorpProject/FishClassifierData/NewImages/img%s.jpeg' % i)#Capture picture
+      print("Completed creating image")
+      camera.stop_preview()#Stop taking pictures
+      sleep(3600)#Delay for 1 hour
+    
+  ```
+   
 - Run this code in Google Colab for machine learning to detect infected fishes
 
   [Click me][Google colab]
